@@ -1,0 +1,1 @@
+# Trend-and-opportunity-analysis-for-AI-using-Python-and-Pandas
