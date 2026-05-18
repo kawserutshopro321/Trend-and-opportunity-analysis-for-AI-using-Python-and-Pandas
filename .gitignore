@@ -1,1 +1,45 @@
+# ======================
+# Data files
+# ======================
+data/
+Data/
+dataset/
+datasets/
+*.csv
+*.xlsx
+*.parquet
 
+# ======================
+# Images
+# ======================
+images/
+image/
+img/
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+# ======================
+# Python
+# ======================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+brain_tf_venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
