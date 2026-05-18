@@ -320,8 +320,6 @@ Contributions, issues, and feature requests are welcome!
 **Md Kawser Islam**
  
 [![GitHub](https://img.shields.io/badge/GitHub-kawserutshopro321-181717?style=flat-square&logo=github)](https://github.com/kawserutshopro321)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/)
- 
 ---
  
 ## ⭐ Acknowledgements
